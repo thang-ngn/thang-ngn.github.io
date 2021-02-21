@@ -20,31 +20,29 @@ title: Thang Nguyen                          # the main title
 tagline: Personal Website   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A Cyber Defender, A Cybersecurity student, A Cybersecurity Lover
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://thang-ngn.github.io'
 
-author: your_full_name                  # change to your full name
+author: Thang Nguyen                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: thang-ngn             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: ngn_thang            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Thang Nguyen                  # it will shows as the copyright owner in Footer
+  email: thang.ngn@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/thang_ngn      # change to your twitter homepage
+    - https://github.com/thang-ngn       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nguyenngocthang.1212
+    - https://www.linkedin.com/in/ngocthangnguyen
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
