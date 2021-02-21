@@ -28,7 +28,7 @@ order: 4
     - Develop profound knowledge and practical skills in the field of information security: Reverse Engineering, Web Security, Code Exploit and Cryptography.
     - Implement research on different vulnerabilities existing in software and on websites and how to exploit them
 
-
+ds
 # My education
 
 2018 - 2021 (expected)
